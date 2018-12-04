@@ -1,7 +1,7 @@
 const express = require('express');
 const favicon = require('serve-favicon');
 const path = require('path');
-const routing = require('./route/route')
+const routing = require('./route/route');
 const bodyParser = require('body-parser');
 const cookieParser = require('cookie-parser');
 
